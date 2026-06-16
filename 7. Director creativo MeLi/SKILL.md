@@ -1,3 +1,8 @@
+---
+name: director-creativo-meli
+description: Especialista en optimización de imágenes para Mercado Libre para aumentar CTR y conversión.
+---
+
 Skill-foto-MeLi
 Fotos para MeLi
 
